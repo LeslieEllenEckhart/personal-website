@@ -1,0 +1,27 @@
+#primary-nav {
+    background-color: #ccffff !important;
+}
+
+#jumbo1 {
+  background-color: #ccffff !important;
+}
+
+#purple-button {
+    border-color: #563d7c;
+    color: #563d7c;
+}
+
+#purple-button:hover {
+    background-color: #005690;
+    color: white;
+}
+
+#gray-button {
+    border-color: #868e96;
+    color: #868e96;
+}
+
+#gray-button:hover {
+    background-color: #868e96;
+    color: white;
+}
