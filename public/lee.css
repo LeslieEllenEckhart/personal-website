@@ -12,16 +12,16 @@
 }
 
 #purple-button:hover {
-    background-color: #005690;
+    background-color: #9933ff;
     color: white;
 }
 
-#gray-button {
-    border-color: #868e96;
-    color: #868e96;
+#aqua-button {
+    border-color: #00cccc;
+    color: #b3ffff;
 }
 
-#gray-button:hover {
-    background-color: #868e96;
+#aqua-button:hover {
+    background-color: #00cccc;
     color: white;
 }
