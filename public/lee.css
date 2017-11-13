@@ -18,7 +18,7 @@
 
 #aqua-button {
     border-color: #00cccc;
-    color: #b3ffff;
+    color: #006666; !important;
 }
 
 #aqua-button:hover {
